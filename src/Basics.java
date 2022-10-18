@@ -54,6 +54,35 @@ public class Basics {
         System.out.println("Entra [1, 2, 3], 1 y 2, sale: " + ej4_solution(new int[]{1, 2, 3}, 1, 2));
         System.out.println("Entra [], 1 y 10, sale: " + ej4_solution(new int[]{}, 1, 10));
 
+        //EJERCICIOS BUCLES: TODOS LOS EJERCICIOS DEBEN TENER UNA SOLUCION CON FOR Y UNA SOLUCION CON WHILE
+        /*
+            Ejercicio Bucles 1: Imprimir todos los numeros desde a hasta b donde a y b son numeros enteros
+            recibidos por parametro. El formato de la impresión debe ser n1, n2, n3, n4, ..., nx.
+            (no hay coma al final)
+         */
+
+        /*
+            Ejercicio Bucles 2: Imprimir el numero en la posicion n de la sucesión fibonacci. La sucesion
+            fibonacci se logra sumando un numero al siguiente de la sucesion, tal y como se puede observar aqui:
+            0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ..., siendo el resultado de n = 5 un 3 y de n = 7 un 8.
+         */
+
+        /*
+            Ejercicio Bucles 3: Imprimir el resultado de la operación a elevado a la b, donde a y b son enteros
+            pasados por parametro, a y b no pueden ser 0 a la vez (el codigo debe printear "Infinity") y b no
+            puede ser negativo.
+         */
+
+        /*
+            Ejercicio Bucles 4: Encuentra el maximo comun divisor entre a y b donde a y b son dos numeros naturales
+            distintos de 0.
+         */
+
+        /*
+            Ejercicio Bucles 5: Encuentra el minimo comun multiplo entre a y b donde a y b son dos numeros naturales
+            distintos de 0.
+         */
+
 
 
     }
