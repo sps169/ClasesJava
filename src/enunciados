@@ -1,0 +1,45 @@
+Ejercicios Bucles Extra:
+
+1. Escribir un programa que imprima todos los números pares 
+entre dos números recibidos por parametro.
+
+2. Crea un programa que muestre en pantalla los N primeros números primos. 
+Se recibe N por parametro siendo N un numero natural.
+
+3. Imprimir números de 100 al 0 dando saltos de n tamaño. N es un numero natural.
+
+3. Recibes un array de numeros, calcular el cuadrado de cada uno y devolver otro array
+con los resultados en sus correspondientes posiciones. Por ejemplo, si recibes:
+[2, 3, 5, 6] debes devolver [4, 9, 25, 36]. Debes controlar que el array contenga al 
+menos un numero.
+
+4. Calcular el factorial del numero n recibido por parametro y devolver el resultado.
+
+5. Escribe un programa que recibe el limite inferior y superior de un intervalo.
+Si el límite inferior es mayor que el superior se intercambian. Adicionalmente,
+recibes un array con numeros enteros sobre los cuales tienes que realizar estas operaciones
+e imprimir sus resultados:
+– La suma de los números que están dentro del intervalo (no incluye ninguno de los dos extremos).
+– Cuantos números están fuera del intervalo.
+– Informa si hemos introducido algún número igual a los límites del intervalo.
+
+6. Una persona adquirió un producto para pagar en 20 meses. El primer mes pagó 10 €,
+el segundo 20 €, el tercero 40 € y así sucesivamente. Realizar un programa que imprime
+cuánto debe pagar mensualmente y el total de lo que pagará después de los 20 meses.
+
+7. Hacer un programa que muestre un cronometro, indicando las horas, minutos y segundos.
+El formato debe ser hh:mm:ss seguido de un salto de linea. Se debe imprimir un resultado
+similar al siguiente:
+
+00:00:00
+00:00:01
+00:00:02
+...
+00:00:59
+00:01:00
+00:01:01
+...
+00:59:59
+01:00:00
+
+El programa debe acabar las llegar a las 23:59:59
